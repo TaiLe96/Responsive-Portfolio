@@ -1,0 +1,97 @@
+header {
+    margin: auto;
+    padding
+}
+
+.container {
+    width: 860px;
+    background: white;
+    padding: 50px;
+    margin: auto;
+}
+
+header a{
+    color: #777777;
+}
+
+.navbar-brand {
+    background: teal;
+}
+
+h1{
+    color: white;
+}
+
+.nav-item {
+    display: inline;
+    padding: 20px;
+}
+
+.box {
+    background-image: url(../image/gravel\ 10.14.55\ PM.png);
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 100%;
+}
+
+.image1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 10px;
+    border-color: #666666;
+    margin-top: 30px;
+    padding: 20px 20px 20px 20px
+    border: 1px solid #666666;
+}
+
+.image2 {
+    width: 200px;
+    height: 200px;
+    clear: both;
+}
+
+.image3 {
+    width: 200px;
+    height: 200px;
+    clear: both;
+}
+
+.img-banner {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: relative;
+    bottom: 50px;
+    left: 0px;
+    width: 200px;
+    height: 30px;
+    background: teal;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    height: 40px;
+    background: #666666;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    margin: auto;
+    margin-top: auto;
+}
+
+
+h2 {
+    color: teal;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+p, a {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.about-me {
+    line-height: 40px;
+}
