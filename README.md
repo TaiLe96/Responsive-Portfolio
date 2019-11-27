@@ -11,9 +11,9 @@ This page was designed with a responsive layout with a navbar. The navbar is use
 
 
 ## Site Pictures
-![Site](about.png)
-![Site](portfolio.png)
-![Site](contact.png)
+![Site](readme/about.png)
+![Site](readme/portfolio.png)
+![Site](readme/contact.png)
 
 ## Code Snippet
 ```html
